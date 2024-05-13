@@ -2,10 +2,7 @@ Aplikasi TOKO HP Project Untuk Tugas Besar Mata Kuliah Konstruksi Perangkat Luna
 
 Anggota Kelompok
 
-Fauzan Arrizqy Putra
-
-Muhammad Izhar Fahriansyah
-
-Wildan Hadi Fernando
-
-Nabiel Ascar Mochamad
+(1302220004) FAUZAN ARRIZQY PUTRA 
+(1302220080) NABIEL ASCAR MOCHAMMAD 
+(1302220056) MUHAMMAD IZHAR FAHRIANSYAH 
+(1302223012) WILDAN HADI FERNANDO
