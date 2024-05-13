@@ -1,12 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SEMESTER 4\\PRAK KPL\\TUBES\\TUBES_KPL\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|c:\\users\\fauzan\\desktop\\kpl\\tubes_kpl_tokohp\\tubes_kpl\\main_inventory\\distribusi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|solutionrelative:main_inventory\\distribusi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|c:\\users\\fauzan\\desktop\\kpl\\tubes_kpl_tokohp\\tubes_kpl\\main_inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|solutionrelative:main_inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|c:\\users\\fauzan\\desktop\\kpl\\tubes_kpl_tokohp\\tubes_kpl\\main_inventory\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|solutionrelative:main_inventory\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|c:\\users\\fauzan\\desktop\\kpl\\tubes_kpl_tokohp\\tubes_kpl\\main_inventory\\cekstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|solutionrelative:main_inventory\\cekstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|c:\\users\\fauzan\\desktop\\kpl\\tubes_kpl_tokohp\\tubes_kpl\\main_inventory\\listdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|solutionrelative:main_inventory\\listdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|c:\\users\\fauzan\\desktop\\kpl\\tubes_kpl_tokohp\\tubes_kpl\\main_inventory\\tokohp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50038D0-A86A-4691-BC50-ECE9DF36A953}|Main_inventory\\Main_inventory.csproj|solutionrelative:main_inventory\\tokohp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33974256-2902-4144-8948-358DC5CB75BF}|Data_Distirbutor\\Data_Distirbutor.csproj|c:\\users\\fauzan\\desktop\\kpl\\tubes_kpl_tokohp\\tubes_kpl\\data_distirbutor\\data_distirbutor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33974256-2902-4144-8948-358DC5CB75BF}|Data_Distirbutor\\Data_Distirbutor.csproj|solutionrelative:data_distirbutor\\data_distirbutor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Distribusi.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\Distribusi.cs",
+              "RelativeDocumentMoniker": "Main_inventory\\Distribusi.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\Distribusi.cs",
+              "RelativeToolTip": "Main_inventory\\Distribusi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:54:42.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\Program.cs",
+              "RelativeDocumentMoniker": "Main_inventory\\Program.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\Program.cs",
+              "RelativeToolTip": "Main_inventory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:46:12.402Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HP.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\HP.cs",
+              "RelativeDocumentMoniker": "Main_inventory\\HP.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\HP.cs",
+              "RelativeToolTip": "Main_inventory\\HP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:51:11.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CekStatus.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\CekStatus.cs",
+              "RelativeDocumentMoniker": "Main_inventory\\CekStatus.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\CekStatus.cs",
+              "RelativeToolTip": "Main_inventory\\CekStatus.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:57:09.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListData.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\ListData.cs",
+              "RelativeDocumentMoniker": "Main_inventory\\ListData.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\ListData.cs",
+              "RelativeToolTip": "Main_inventory\\ListData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:55:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokoHP.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\TokoHP.cs",
+              "RelativeDocumentMoniker": "Main_inventory\\TokoHP.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Main_inventory\\TokoHP.cs",
+              "RelativeToolTip": "Main_inventory\\TokoHP.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:49:12.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Data_Distirbutor",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Data_Distirbutor\\Data_Distirbutor.csproj",
+              "RelativeDocumentMoniker": "Data_Distirbutor\\Data_Distirbutor.csproj",
+              "ToolTip": "C:\\Users\\fauzan\\Desktop\\KPL\\TUBES_KPL_TOKOHP\\TUBES_KPL\\Data_Distirbutor\\Data_Distirbutor.csproj",
+              "RelativeToolTip": "Data_Distirbutor\\Data_Distirbutor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T12:39:05.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
